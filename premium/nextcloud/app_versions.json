@@ -1,4 +1,4 @@
-{{
+{
     "28.3.0": {
         "healthy": true,
         "supported": true,
@@ -15,7 +15,7 @@
         "version": "28.3.0",
         "chart_metadata": {
             "annotations": {
-                "max_scale_version": "23.10.2",
+                "max_scale_version": "24.04.2.3",
                 "min_scale_version": "23.10.0",
                 "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "cloud",
