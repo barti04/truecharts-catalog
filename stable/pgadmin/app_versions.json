@@ -4992,7 +4992,7 @@
         "version": "15.8.4",
         "chart_metadata": {
             "annotations": {
-                "max_scale_version": "24.04.0",
+                "max_scale_version": "24.04.2.3",
                 "min_scale_version": "23.10.0",
                 "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "management",
@@ -9970,7 +9970,7 @@
         "version": "14.5.0",
         "chart_metadata": {
             "annotations": {
-                "max_scale_version": "24.04.0",
+                "max_scale_version": "24.04.2.3",
                 "min_scale_version": "23.10.0",
                 "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "management",
@@ -14990,7 +14990,7 @@
         "version": "14.4.0",
         "chart_metadata": {
             "annotations": {
-                "max_scale_version": "24.04.0",
+                "max_scale_version": "24.04.2.3",
                 "min_scale_version": "23.10.0",
                 "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "management",
